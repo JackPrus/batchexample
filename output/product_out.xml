@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <productId>1</productId>
+        <productName>Apple</productName>
+        <productDesc>apple cell phone</productDesc>
+        <price>500.50</price>
+        <unit>18</unit>
+    </product>
+    <product>
+        <productId>2</productId>
+        <productName>Dell</productName>
+        <productDesc>dell monitor</productDesc>
+        <price>200.20</price>
+        <unit>11</unit>
+    </product>
+    <product>
+        <productId>3</productId>
+        <productName>Samsung</productName>
+        <productDesc>samsung sound system</productDesc>
+        <price>300.00</price>
+        <unit>8</unit>
+    </product>
+    <product>
+        <productId>4</productId>
+        <productName>Apple</productName>
+        <productDesc>makbook series 5</productDesc>
+        <price>990.80</price>
+        <unit>3</unit>
+    </product>
+</products>

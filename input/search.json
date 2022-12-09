@@ -1,0 +1,31 @@
+{
+  "pid": "3bdb75a2df002bc2",
+  "sid": "0E03471B6B4C6C76EF0FB971022909C9",
+  "url": "https://dlib.eastview.com/search/simple/articles",
+  "plid": 1,
+  "plname": "dlib",
+  "aid": 39038,
+  "aname": "dev test",
+  "dbs": [
+    {
+      "dbid": "UDB-STM-PHY",
+      "dbname": "Russian Academy of Sciences Journals: Physics"
+    },
+    {
+      "dbid": "DA-MM",
+      "dbname": "Manitou Messenger"
+    },
+    {
+      "dbid": "DA-SG",
+      "dbname": "Starye Gody Digital Archive"
+    },
+    {
+      "dbid": "EL-RPA07",
+      "dbname": "Russia State Duma Election, 2007"
+    },
+    {
+      "dbid": "UDB-IND",
+      "dbname": "Standalone Serials"
+    }
+  ]
+}
